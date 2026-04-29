@@ -1,6 +1,7 @@
-## Hey there, I'm Aron👋
+## Hi 👋
 
 I'm a 20yo IT student from Uruguay🇺🇾.
+
 **Passionate about Cybersecurity and Software Development.**
 
 ---
