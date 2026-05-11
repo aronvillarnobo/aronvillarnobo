@@ -7,7 +7,7 @@ I'm a 20yo IT student from Uruguay🇺🇾.
 ---
 
 - Currently learning Python on my own and Java through my formal IT education.
-- **macOs user**, fan of the terminal.
+- **macOs user**
 
 ### 🎯 2026 Roadmap
 - [ ] Create 3/5 major projects.
