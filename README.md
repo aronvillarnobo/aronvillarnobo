@@ -12,4 +12,3 @@ I'm a 20yo IT student from Uruguay🇺🇾.
 ### 📂 Featured Projects
 - [Java Canteen Menu](https://github.com/aronvillarnobo/canteen-java): A CLI payment system for a canteen.
 - [Password Generator](https://github.com/aronvillarnobo/password-generator): A secure tool built with Python.
-- [Pro Port Scanner](https://github.com/aronvillarnobo/port-scanner-python): A fast TCP port scanner with service identification and TXT output.
